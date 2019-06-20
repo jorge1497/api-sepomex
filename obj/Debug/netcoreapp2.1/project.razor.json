@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\projects\\api-sepomex\\api-sepomex.csproj",
+  "FilePath": "d:\\Projects\\api-sepomex\\api-sepomex.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-2.1",
     "LanguageVersion": "2.1",
@@ -2856,6 +2856,6 @@
     ],
     "CSharpLanguageVersion": 703
   },
-  "RootNamespace": "api-sepomex",
+  "RootNamespace": null,
   "Documents": []
 }
