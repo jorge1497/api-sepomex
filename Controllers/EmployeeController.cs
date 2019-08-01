@@ -15,7 +15,6 @@ namespace api_sepomex.Controllers
     [ApiController]
     [EnableCors("SepomexPolicy")]
     [ExceptionFilter]
-    [Authorize("Bearer")]
     public class EmployeeController : ControllerBase
     {
         private readonly IntranetContext _context;

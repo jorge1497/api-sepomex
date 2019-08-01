@@ -12,7 +12,6 @@ namespace api_sepomex.Models
     {
         [Column("EmpleadoId")]
         [Key]
-        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int EmployeeId { get; set; }
         [Column("PrimerNombre")]
         public string FirstName { get; set; }
